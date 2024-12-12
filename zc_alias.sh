@@ -2,7 +2,7 @@
 
 # Faster ls
 alias l="ls -l"
-alias lt="ls -ltr"
+alias ltr="ls -ltr"
 
 # Grep a CSV with table head
 function csvgrep() {
